@@ -1,0 +1,4 @@
+#ignore simulation output files
+*.out       #compiled output files from simulation
+*.vcd       #waveform files generated during simulation
+*.vvp       #intermediate simulation files created for waveform generation
